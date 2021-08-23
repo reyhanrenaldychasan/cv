@@ -53,7 +53,7 @@
               <a class="nav-link" href="{{ route('about') }}">ABOUT</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#">RESUME</a>
+              <a class="nav-link" href="{{ route('resume') }}">RESUME</a>
             </li>
             <li class="nav-item">
               <a class="nav-link" href="#">PORTOFOLIO</a>
