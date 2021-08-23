@@ -46,13 +46,13 @@
       
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
           <ul class="navbar-nav mx-auto">
-            <li class="nav-item active">
+            <li class="nav-item {{ setActive(['home']) }}">
               <a class="nav-link" href="{{ route('home') }}">HOME <span class="sr-only">(current)</span></a>
             </li>
-            <li class="nav-item">
+            <li class="nav-item {{ setActive(['about']) }}"">
               <a class="nav-link" href="{{ route('about') }}">ABOUT</a>
             </li>
-            <li class="nav-item">
+            <li class="nav-item {{ setActive(['resume']) }}">
               <a class="nav-link" href="{{ route('resume') }}">RESUME</a>
             </li>
             <li class="nav-item">

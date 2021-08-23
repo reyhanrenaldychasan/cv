@@ -29,6 +29,11 @@ body {
   .soc i{
     margin-right: 4px;
     font-size: 20px;
+    
+  }
+
+  .soc a {
+    text-decoration: none;
   }
 
   .main {
@@ -55,10 +60,8 @@ body {
       Web Developer
     </h4>
     <div class="soc">
-      <i class="fab fa-facebook"></i>
-      <i class="fab fa-instagram"></i>
-      <i class="fab fa-linkedin"></i>
-
+      <a href="https://www.facebook.com/reyhan.chasan" target="_blank"><i class="fab fa-facebook"></i></a>
+      <a href="https://www.linkedin.com/in/reyhan-renaldy-chasan-103368191/" target="_blank"><i class="fab fa-linkedin"></i></a>
     </div>
   </div>
 </div>
