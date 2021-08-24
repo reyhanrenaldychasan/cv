@@ -12,7 +12,7 @@
 <style>
   body {
     font-family: 'Montserrat', 'sans-serif';
-    color: #eee;
+    color: hsl(0, 0%, 93%);
     background-color: hsl(206, 21%, 23%);
     width: 100%;
     height: 100vh;
@@ -55,8 +55,8 @@
             <li class="nav-item {{ setActive(['resume']) }}">
               <a class="nav-link" href="{{ route('resume') }}">RESUME</a>
             </li>
-            <li class="nav-item">
-              <a class="nav-link" href="#">PORTOFOLIO</a>
+            <li class="nav-item {{ setActive(['portofolio']) }}">
+              <a class="nav-link" href="{{ route('portofolio') }}">PORTOFOLIO</a>
             </li>
             <li class="nav-item">
               <a class="nav-link" href="#">CONTACT</a>
