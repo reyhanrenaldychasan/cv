@@ -91,12 +91,12 @@
                 </p>
                 <p>
                     I wrote all the API that required by the mobile application
-                    using laravel. Begin from the authentication, the event listing,
+                    using laravel and mysql. Begin from the authentication, the event listing,
                     CRUD operation for the event, book the ticket, to the transactions
                     of the ticket. I also built the web version of Kicauku Partner
                     with laravel.
                 </p>
-                <a href="#" class="portofolio-link">https://kicauku-reyhan-rc.herokuapp.com</a>
+                <a href="#" target="_blank" class="portofolio-link">https://kicauku-reyhan-rc.herokuapp.com</a>
             </div>
         </div>
     </div>
@@ -130,11 +130,110 @@
                     they want to buy.
                 </p>
                 <p>
-                    I built the app with codeigniter to make the front-end
-                    and back-end and using midtrans plugin to handle the
-                    transaction.
+                    I built the app full-stack with laravel and bootstrap, using mysql 
+                    to handle the database and midtrans plugin to handle the transaction.
                 </p>
-                <a href="#" class="portofolio-link">https://e-slaws-reyhan-rc.herokuapp.com</a>
+                <a href="#" target="_blank" class="portofolio-link">https://e-slaws-reyhan-rc.herokuapp.com</a>
+            </div>
+        </div>
+    </div>
+
+    <div class="portofolio py-4">
+        <div class="portofolio-title">
+            <div class="d-flex">
+                <div class="mr-auto">
+                    <h2>Asiapools Kalista</h2>
+                </div>
+                <div class="d-flex flex-column justify-content-center">
+                    <span class="portofolio-sub-title">Laravel Web | Company Profile</span>
+                </div>
+            </div>
+        </div>
+        <div class="portofolio-body row py-2">
+            <div class="portofolio-img col-lg">
+                <div class="bg-img">
+                    <img src="{{ asset('img/asiapools display.png') }}" alt="" srcset="">
+                </div>
+            </div>
+            <div class="portofolio-desc col-lg">
+                <p>A company profile made for Asiapools Kalista oriented 
+                    in the constructions of public and private swimming pools.
+                </p>
+                <p>The company profile features home page, about page, list of product & services,
+                    contact page, and list of their projects, it also has a change language system,
+                    switching between bahasa indonesia and english.
+                </p>
+                <p>
+                    I built the company profile with laravel, no back-end but I used mysql database
+                    for looping the products and projects.
+                </p>
+                <a href="https://www.asiapoolskalista.com" target="_blank" class="portofolio-link">https://www.asiapoolskalista.com</a>
+            </div>
+        </div>
+    </div>
+
+
+    <div class="portofolio py-4">
+        <div class="portofolio-title">
+            <div class="d-flex">
+                <div class="mr-auto">
+                    <h2>PC24</h2>
+                </div>
+                <div class="d-flex flex-column justify-content-center">
+                    <span class="portofolio-sub-title">Laravel Web</span>
+                </div>
+            </div>
+        </div>
+        <div class="portofolio-body row py-2">
+            <div class="portofolio-img col-lg">
+                <div class="bg-img">
+                    <img src="{{ asset('img/pc24 display.png') }}" alt="" srcset="">
+                </div>
+            </div>
+            <div class="portofolio-desc col-lg">
+                <p>A CMS for managing news. It was made for
+                    PC24 Telekomunikasi Indonesia oriented in telecomunication.
+                </p>
+                <p>The CMS features news listing, CRUD news, image and utf-8 on content,
+                    news' tags and much more. Admin must login first to use the CMS.
+                </p>
+                <p>
+                    I built the app full-stack with laravel, using mysql to handle the database.
+                </p>
+                <a href="#" target="_blank" class="portofolio-link">https://pc24-reyhan-rc.herokuapp.com</a>
+            </div>
+        </div>
+    </div>
+
+    <div class="portofolio py-4">
+        <div class="portofolio-title">
+            <div class="d-flex">
+                <div class="mr-auto">
+                    <h2>Aniretto</h2>
+                </div>
+                <div class="d-flex flex-column justify-content-center">
+                    <span class="portofolio-sub-title">Laravel Web</span>
+                </div>
+            </div>
+        </div>
+        <div class="portofolio-body row py-2">
+            <div class="portofolio-img col-lg">
+                <div class="bg-img">
+                    <img src="{{ asset('img/aniretto display.png') }}" alt="" srcset="">
+                </div>
+            </div>
+            <div class="portofolio-desc col-lg">
+                <p>Aniretto is an app for finding some recommendation of anime
+                    by choosing your preferred genre and how much it weights.
+                </p>
+                <p>The application determines which anime matches the composition of
+                    genre (genre and it's weight) that the user chooses using an algorithm
+                    called TOPSIS.
+                </p>
+                <p>
+                    I built the app full-stack with laravel, using mysql to handle the database.
+                </p>
+                <a href="#" target="_blank" class="portofolio-link">https://aniretto-reyhan-rc.herokuapp.com</a>
             </div>
         </div>
     </div>
