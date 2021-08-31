@@ -96,7 +96,7 @@
                     of the ticket. I also built the web version of Kicauku Partner
                     with laravel.
                 </p>
-                <a href="#" target="_blank" class="portofolio-link">https://kicauku-reyhan-rc.herokuapp.com</a>
+                <a href="javascript:;" class="portofolio-link">https://kicauku-reyhan-rc.herokuapp.com</a>
             </div>
         </div>
     </div>
@@ -133,7 +133,7 @@
                     I built the app full-stack with laravel and bootstrap, using mysql 
                     to handle the database and midtrans plugin to handle the transaction.
                 </p>
-                <a href="#" target="_blank" class="portofolio-link">https://e-slaws-reyhan-rc.herokuapp.com</a>
+                <a href="javascript:;" class="portofolio-link">https://e-slaws-reyhan-rc.herokuapp.com</a>
             </div>
         </div>
     </div>
@@ -167,7 +167,7 @@
                     I built the company profile with laravel, no back-end but I used mysql database
                     for looping the products and projects.
                 </p>
-                <a href="https://www.asiapoolskalista.com" target="_blank" class="portofolio-link">https://www.asiapoolskalista.com</a>
+                <a href="https://www.asiapoolskalista.com" class="portofolio-link">https://www.asiapoolskalista.com</a>
             </div>
         </div>
     </div>
@@ -200,7 +200,7 @@
                 <p>
                     I built the app full-stack with laravel, using mysql to handle the database.
                 </p>
-                <a href="#" target="_blank" class="portofolio-link">https://pc24-reyhan-rc.herokuapp.com</a>
+                <a href="javascript:;" class="portofolio-link">https://pc24-reyhan-rc.herokuapp.com</a>
             </div>
         </div>
     </div>
@@ -233,7 +233,7 @@
                 <p>
                     I built the app full-stack with laravel, using mysql to handle the database.
                 </p>
-                <a href="#" target="_blank" class="portofolio-link">https://aniretto-reyhan-rc.herokuapp.com</a>
+                <a href="javascript:;" class="portofolio-link">https://aniretto-reyhan-rc.herokuapp.com</a>
             </div>
         </div>
     </div>
