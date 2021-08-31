@@ -24,3 +24,7 @@ Route::get('/about', function() {
 Route::get('/resume', function() {
     return view('resume');
 })->name('resume');
+
+Route::get('/portofolio', function() {
+    return view('portofolio');
+})->name('portofolio');
